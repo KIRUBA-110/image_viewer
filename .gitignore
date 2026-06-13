@@ -1,0 +1,11 @@
+# Compiled binary
+image_viewer
+
+# Object files
+*.o
+
+# Sample/test images (comment out if you want to track them)
+*.jpg
+*.jpeg
+*.png
+*.bmp
