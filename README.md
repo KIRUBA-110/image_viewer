@@ -1,4 +1,4 @@
-# 🖼️ Image Viewer
+# Image Viewer
 
 > A minimal, blazing-fast image viewer written in **C** using SDL2 — one source file, no bloat.
 
@@ -106,6 +106,10 @@ image_viewr/
 ```
 
 ---
+
+### OUTPUT
+
+<img width="954" height="576" alt="Prototype" src="output.png">
 
 ## 📄 License
 
