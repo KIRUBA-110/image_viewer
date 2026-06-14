@@ -40,7 +40,7 @@ int main(int args, char *argv[])
             SDL_WINDOWPOS_CENTERED,
             img->w,
             img->h,
-            SDL_WINDOW_SHOWN
+            0
         );
 
     if(!window)
